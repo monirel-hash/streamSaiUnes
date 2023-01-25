@@ -10,6 +10,7 @@ wget https://github.com/saiunes/streamSaiUnes/releases/download/v1.0/install
 chmod 777 install
 ./install
 cd streamSaiUnes
+chmod 777 streamSaiUnes
 ```
 
 ## Upload .mp4 file
