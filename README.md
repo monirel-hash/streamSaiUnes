@@ -8,6 +8,8 @@ UBUNTU 22.04 LTS
 ```
 wget https://github.com/saiunes/streamSaiUnes/releases/download/v1.0/install
 chmod 777 install
+./install
+cd streamSaiUnes
 ```
 
 ## Upload .mp4 file
