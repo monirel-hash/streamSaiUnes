@@ -1,6 +1,7 @@
-<a href="https://saiunes.com/make-100k-from-radio-channel-business-and-a-solid-passive-income-stratigy/">
-<img src="https://user-images.githubusercontent.com/30548669/215224890-e3848de4-342e-49a7-ac43-a27e1af08584.png" width="70%" style="max-width: 100%; margin: auto; display: flex; border-radius: 20px;"/>
-</a>
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/30548669/215224890-e3848de4-342e-49a7-ac43-a27e1af08584.png" width="70%"/>
+</p>
+
 
 # SaiUnes Streaming TOOL
 
