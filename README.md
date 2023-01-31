@@ -58,19 +58,3 @@ tmux kill-session -a
 Replace a with the window number from the ls comand
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-Stream to Youtube
-Stream to FaceBook
-infinit video replay Loops
-Recommended os: Ubuntu Server 22.04 LTS
