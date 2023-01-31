@@ -31,6 +31,43 @@ copy and page the command below, and follow the app output guide
 use CTR key + C to stop the streaming
 
 # How to stream 24/7 non stop?
+We will need to use Tmux command
+```
+tmux
+```
+
+Next run the streamSaiUnes app
+```
+./streamSaiUnes
+```
+Follow the steps and run your stream <br/>
+Once done close the tmux window by following these steps <br/>
+ON MACOS: CTR+B and then click on D <br/>
+ON WINDOWS: CTR+B and then click on X <br/>
+
+
+## HOW TO STOP THE STREAM
+Type this comand to list the curent runing tmux windows
+```
+tmux ls
+```
+Now kill that window by typing
+```
+tmux kill-session -a
+```
+Replace a with the window number from the ls comand
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Stream to Youtube
