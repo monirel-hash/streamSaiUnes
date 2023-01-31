@@ -55,6 +55,6 @@ Now kill that window by typing
 ```
 tmux kill-session -a
 ```
-Replace a with the window number from the ls comand
+Replace *a* with the window number from the ls comand
 
 
