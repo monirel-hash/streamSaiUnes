@@ -27,8 +27,10 @@ copy and page the command below, and follow the app output guide
 ```
 ./streamSaiUnes
 ```
+## Stop the SaiUnes streaming app
+use CTR key + C to stop the streaming
 
-
+# How to stream 24/7 non stop?
 
 
 Stream to Youtube
