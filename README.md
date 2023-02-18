@@ -11,12 +11,29 @@ UBUNTU 22.04 LTS
 ## install SaiUnes Streaming TOOL 
 > copy and page the below commands on your ubuntu server terminal to install required packages by SaiUnes streaming app
 ```
-wget https://github.com/saiunes/streamSaiUnes/releases/download/v1.0/install
+wget https://github.com/saiunes/streamSaiUnes/releases/download/v2.13/install
 chmod 777 install
 ./install
 cd streamSaiUnes
 chmod 777 streamSaiUnes
 ```
+
+## Update SaiUnes Streaming TOOL to the latest version
+> copy and page the below commands on your ubuntu server terminal to Update the tool
+```
+cd /root/streamSaiUnes
+rm streamSaiUnes
+rm licence
+rm README.md
+cd ..
+wget https://github.com/saiunes/streamSaiUnes/releases/download/v2.13/install
+chmod 777 install
+./install
+cd streamSaiUnes
+chmod 777 streamSaiUnes
+```
+
+
 
 ## Upload .mp4 file
 > The *.mp4 file must be uploaded into the video dir located at: /root/streamSaiUnes/video
