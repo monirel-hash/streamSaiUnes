@@ -11,7 +11,7 @@ UBUNTU 22.04 LTS
 ## install SaiUnes Streaming TOOL 
 > copy and page the below commands on your ubuntu server terminal to install required packages by SaiUnes streaming app
 ```
-wget https://github.com/saiunes/streamSaiUnes/releases/download/v2.13/install
+wget https://github.com/saiunes/streamSaiUnes/releases/download/v2.97/install
 chmod 777 install
 ./install
 cd streamSaiUnes
@@ -26,7 +26,7 @@ rm streamSaiUnes
 rm licence
 rm README.md
 cd ..
-wget https://github.com/saiunes/streamSaiUnes/releases/download/v2.13/install
+wget https://github.com/saiunes/streamSaiUnes/releases/download/v2.97/install
 chmod 777 install
 ./install
 cd streamSaiUnes
